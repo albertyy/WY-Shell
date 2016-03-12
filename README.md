@@ -11,4 +11,4 @@ Features:
 4. Redirect operators are supported.
 5. Pipe between sub-commands are supported.
 6. The "cd" built-in command is implemented.
-7. Process-specific environment variable is supported. There is a test file named test.c attached in the arc, it will print all the environment variable, please compile it and use it to test this function. new env will be printed at the end.
+
